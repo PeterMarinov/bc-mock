@@ -1,0 +1,18 @@
+{
+        "id": "UHJvZHVjdDoxNjUx",
+        "entityId": 1651,
+        "name": "X9 1000 Combine",
+        "description": "This is X9 1000 Combine - the first entirely AI driven combine in the world! Cone and join the farmolution!",
+        "sku": "x910xh",
+        "path": "/x9-1000-combine/",
+        "defaultImage": {
+          "urlOriginal": "https://cdn11.bigcommerce.com/s-b8959pc22a/images/stencil/original/products/1651/3352/x91000_field_r4000619_1024x576_large_d1f357991bce9b18187d6b1eef69aebaba70d8e2__61789.1599756425.jpg",
+          "altText": "https://www.deere.com/assets/images/region-4/products/combines/x9/x91000/x91000_field_r4000619_1024x576_large_d1f357991bce9b18187d6b1eef69aebaba70d8e2.jpg"
+        },
+        "prices": {
+          "price": {
+            "value": 100,
+            "currencyCode": "USD"
+          }
+        }
+      }
